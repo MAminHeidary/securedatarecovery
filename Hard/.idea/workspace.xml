@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d8faa1e-53c8-4051-87c2-f4d4c29722bb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Uki3CUb3BcIZ722dqyEKwCRVb3" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="bootstrap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="bootstrap.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.bootstrap.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d8faa1e-53c8-4051-87c2-f4d4c29722bb" name="Default Changelist" comment="" />
+      <created>1575906792784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575906792784</updated>
+      <workItem from="1575906795657" duration="1315000" />
+      <workItem from="1575908643330" duration="1643000" />
+      <workItem from="1575910510486" duration="1394000" />
+      <workItem from="1575912402844" duration="1540000" />
+      <workItem from="1575914236992" duration="1132000" />
+      <workItem from="1575926990793" duration="1753000" />
+      <workItem from="1575970111900" duration="618000" />
+      <workItem from="1575983112534" duration="201000" />
+      <workItem from="1576050929973" duration="1498000" />
+      <workItem from="1576052874347" duration="1793000" />
+      <workItem from="1576055007091" duration="1069000" />
+      <workItem from="1576058190626" duration="1464000" />
+      <workItem from="1576060006588" duration="1768000" />
+      <workItem from="1576061825076" duration="1524000" />
+      <workItem from="1576063658700" duration="1703000" />
+      <workItem from="1576079858675" duration="381000" />
+      <workItem from="1576082174718" duration="404000" />
+      <workItem from="1576085359381" duration="1703000" />
+      <workItem from="1576087184969" duration="1673000" />
+      <workItem from="1576089002699" duration="1717000" />
+      <workItem from="1576090824386" duration="1209000" />
+      <workItem from="1576101266831" duration="1219000" />
+      <workItem from="1576103083015" duration="1693000" />
+      <workItem from="1576104902733" duration="1788000" />
+      <workItem from="1576106718440" duration="1145000" />
+      <workItem from="1576139466449" duration="1818000" />
+      <workItem from="1576141557561" duration="1779000" />
+      <workItem from="1576143373385" duration="1683000" />
+      <workItem from="1576146148978" duration="359000" />
+      <workItem from="1576148023224" duration="1656000" />
+      <workItem from="1576149847829" duration="716000" />
+      <workItem from="1576189795206" duration="1194000" />
+      <workItem from="1576191118497" duration="494000" />
+      <workItem from="1576191643207" duration="1745000" />
+      <workItem from="1576193457306" duration="1707000" />
+      <workItem from="1576195284557" duration="635000" />
+      <workItem from="1576247251730" duration="1043000" />
+      <workItem from="1576249291165" duration="1021000" />
+      <workItem from="1576251109705" duration="1762000" />
+      <workItem from="1576252932668" duration="1388000" />
+      <workItem from="1576254986956" duration="1620000" />
+      <workItem from="1576256808580" duration="539000" />
+      <workItem from="1576263202446" duration="1648000" />
+      <workItem from="1576265019147" duration="1618000" />
+      <workItem from="1576274919968" duration="1648000" />
+      <workItem from="1576276811118" duration="1734000" />
+      <workItem from="1576278640777" duration="1742000" />
+      <workItem from="1576280499259" duration="1766000" />
+      <workItem from="1576282320024" duration="1739000" />
+      <workItem from="1576284148867" duration="589000" />
+      <workItem from="1576310587937" duration="1346000" />
+      <workItem from="1576322438796" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/bootstrap.js</url>
+          <line>76</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
